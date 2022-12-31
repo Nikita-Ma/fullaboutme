@@ -17,7 +17,7 @@ Below is a table with my hard skills
 |  REACT NATIVE | 2  | intermediate      |        2020 |
 |  REDUX | 2   | advanced       |       now |
 
-#### Backed
+#### Backend
 
 | Skill  | Experience  | Level | Last used |
 |:------------- |:---------------:| -------------:| -------------:| 
