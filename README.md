@@ -48,7 +48,7 @@ Below is a table with my hard skills
 |  English | elementary   |  
 
 ### Contact 
-<a href="nikitama1hr@gmail.com" target="_blank"> 
+<a href="mailto:nikitama1hr@gmail.com" target="_blank"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="contact"/>
 </a>&nbsp;
 <a href="https://t.me/ninikin" target="_blank"> 
