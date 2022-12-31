@@ -48,4 +48,13 @@ Below is a table with my hard skills
 |  English | elementary   |  
 
 ### Contact 
-![nikitama1hr@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)&nbsp;![https://t.me/ninikin](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)&nbsp;![NikMa#4345](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)&nbsp;![https://www.youtube.com/channel/UCodGQSLYjeTqAz6uaFrcMkA](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+<a href="nikitama1hr@gmail.com" target="_blank"> 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="contact"/>
+</a>&nbsp;
+<a href="https://t.me/ninikin" target="_blank"> 
+<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="contact"/>
+</a>&nbsp;
+<a href="https://www.youtube.com/channel/UCodGQSLYjeTqAz6uaFrcMkA" target="_blank"> 
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="contact"/>
+</a>
+
