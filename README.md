@@ -36,7 +36,7 @@ Below is a table with my hard skills
 
 | Skill  | Experience  | Level | Last used |
 |:------------- |:---------------:| -------------:| -------------:| 
-| Figma | 2 |intermediate|       now|
+| Figma | 2 | advanced|       now|
 |  Photoshop    | 5   | intermediate        |    now  |
 |  Illustrator  | 2   | intermediate        |    2020 |
 
