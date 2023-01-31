@@ -51,7 +51,7 @@ Below is a table with my hard skills
 <a href="mailto:nikitama1hr@gmail.com" target="_blank"> 
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="contact"/>
 </a>&nbsp;
-<a href="https://t.me/ninikin" target="_blank"> 
+<a href="https://t.me/jsnikm" target="_blank"> 
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="contact"/>
 </a>&nbsp;
 <a href="https://www.youtube.com/channel/UCodGQSLYjeTqAz6uaFrcMkA" target="_blank"> 
