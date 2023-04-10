@@ -40,6 +40,13 @@ Below is a table with my hard skills
 |  Photoshop    | 5   | intermediate        |    now  |
 |  Illustrator  | 2   | intermediate        |    2020 |
 
+### OS
+
+| Skill  | Level
+|:------------- | -------------:| 
+|  Windows | intermediate   |     
+|  Linux | novice   |  
+
 ### Languages
 
 | Skill  | Level
