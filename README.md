@@ -25,6 +25,7 @@ Below is a table with my hard skills
 | EXPRESS   | 2   | novice         |        now |
 |  MONGO DB | 2   | novice         |        now |
 |  MONGOOSE | 2   | novice         |        now |
+|  PostgreSQL | 0   | novice         |        now |
 
 #### DEV OPS
 
