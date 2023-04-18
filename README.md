@@ -53,7 +53,7 @@ Below is a table with my hard skills
 | Skill  | Level
 |:------------- | -------------:| 
 |  Russian | native   |     
-|  English | elementary   |  
+|  English | pre intermediate   |  
 
 ### Contact 
 <a href="mailto:nikitama1hr@gmail.com" target="_blank"> 
