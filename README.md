@@ -7,7 +7,7 @@ Below is a table with my hard skills
 
 #### Frontend
 
-| Skill  | Experience  | Level | Last used |
+| Skill  | Experience (in years)  | Level | Last used |
 |:------------- |:---------------:| -------------:| -------------:| 
 | HTML       | 5 |  expert | now | 
 | CSS        | 5 |  expert | now | 
