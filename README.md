@@ -15,7 +15,11 @@ Below is a table with my hard skills
 | JS         | 4 |     advanced  | now |
 | REACT      | 3 |     advanced  | now | 
 |  REACT NATIVE | 2  | intermediate      |        2020 |
+|  NEXTJS | 1   | intermediate       |       now |
 |  REDUX | 2   | advanced       |       now |
+|  ANGULAR | 1   | novice       |       now |
+|  RXJS | 1   | novice       |       now |
+
 
 #### Backend
 
@@ -23,9 +27,9 @@ Below is a table with my hard skills
 |:------------- |:---------------:| -------------:| -------------:| 
 | NODE JS   | 2   |intermediate    |        now |
 | EXPRESS   | 2   | novice         |        now |
-|  MONGO DB | 2   | novice         |        now |
-|  MONGOOSE | 2   | novice         |        now |
-|  PostgreSQL | 0   | novice         |        now |
+|  MONGO DB | 2   | novice         |        2021 |
+|  MONGOOSE | 2   | novice         |        2021 |
+|  PostgreSQL | 0   | intermediate         |        now |
 
 #### DEV OPS
 
