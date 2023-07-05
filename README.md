@@ -27,6 +27,7 @@ Below is a table with my hard skills
 |:------------- |:---------------:| -------------:| -------------:| 
 | NODE JS   | 2   |intermediate    |        now |
 | EXPRESS   | 2   | novice         |        now |
+| Nestjs   | 1   | novice         |        now |
 |  MONGO DB | 2   | novice         |        2021 |
 |  MONGOOSE | 2   | novice         |        2021 |
 |  PostgreSQL | 0   | intermediate         |        now |
