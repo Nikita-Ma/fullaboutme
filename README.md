@@ -1,6 +1,6 @@
 # About me 
 
-A guy, 19 years old. I love everything related to web development, I am constantly developing, learning something new, responsible.
+A guy, 20 years old. I love everything related to web development, I am constantly developing, learning something new, responsible.
 Below is a table with my hard skills
 
 ## Hard skills
