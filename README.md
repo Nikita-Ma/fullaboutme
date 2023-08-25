@@ -19,6 +19,8 @@ Below is a table with my hard skills
 |  REDUX | 2   | advanced       |       now |
 |  ANGULAR | 1   | novice       |       now |
 |  RXJS | 1   | novice       |       now |
+|  NGRX | 1   | novice       |       now |
+
 
 
 #### Backend
@@ -30,13 +32,13 @@ Below is a table with my hard skills
 | Nestjs   | 1   | novice         |        now |
 |  MONGO DB | 2   | novice         |        2021 |
 |  MONGOOSE | 2   | novice         |        2021 |
-|  PostgreSQL | 0   | intermediate         |        now |
+|  PostgreSQL | 1   | intermediate         |        now |
 
 #### DEV OPS
 
 | Skill  | Experience  | Level | Last used |
 |:------------- |:---------------:| -------------:| -------------:| 
-| DOCKER  | 1 | novice |  now |
+| DOCKER  | 1 | advanced |  now |
 
 #### Photo editor
 
@@ -51,7 +53,7 @@ Below is a table with my hard skills
 | Skill  | Level
 |:------------- | -------------:| 
 |  Windows | intermediate   |     
-|  Linux | novice   |  
+|  Linux | advanced   |  
 
 ### Languages
 
