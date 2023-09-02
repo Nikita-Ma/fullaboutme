@@ -39,6 +39,8 @@ Below is a table with my hard skills
 | Skill  | Experience  | Level | Last used |
 |:------------- |:---------------:| -------------:| -------------:| 
 | DOCKER  | 1 | advanced |  now |
+| RabbitMq  | 1 | advanced |  now |
+
 
 #### Photo editor
 
