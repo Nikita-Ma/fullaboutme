@@ -27,12 +27,14 @@ Below is a table with my hard skills
 
 | Skill  | Experience  | Level | Last used |
 |:------------- |:---------------:| -------------:| -------------:| 
+| Apache Tomcat   | 0.3   |novice    |        now |
+| Go   | 0   |novice    |        now |
 | NODE JS   | 2   |intermediate    |        now |
-| EXPRESS   | 2   | novice         |        now |
-| Nestjs   | 1   | novice         |        now |
-|  MONGO DB | 2   | novice         |        2021 |
+| EXPRESS   | 2   | intermediate         |        now |
+| Nestjs   | 1   | intermediate         |        now |
+|  MONGO DB | 2   | intermediate         |        2021 |
 |  MONGOOSE | 2   | novice         |        2021 |
-|  PostgreSQL | 1   | intermediate         |        now |
+|  PostgreSQL | 1   | advanced         |        now |
 
 #### DEV OPS
 
